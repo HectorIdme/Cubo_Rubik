@@ -1,4 +1,4 @@
-# Cubo_Rubik
+# Cubo De Rubik
 # Autor: 
 Hector Felipe Idme Apaza  - hector.idme@ucsp.edu.pe
 # Curso:
