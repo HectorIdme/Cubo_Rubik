@@ -19,11 +19,15 @@ Para movimiento horario (Tecla + 1)
 - Camada 1 Y Antihorario (V)
 - Camada 2 Y Antiorario (B)
 - Camada 3 Y Antiorario (N)
+
 Para movimiento antihorario (Tecla + 1)
+
 - Camada 1 Z Horario (J)
 - Camada 2 Z Horario (K)
 - Camada 3 Z Horario (L)
+
 Bonus
+
 - Proyeccion Ortogonal (T)
 - Proyeccion Perspectiva (Y)
 - Solucionar Cubo (P)
