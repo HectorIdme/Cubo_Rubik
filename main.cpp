@@ -781,7 +781,7 @@ void processInput(GLFWwindow* window){
     else if (glfwGetKey(window, GLFW_KEY_P) == GLFW_PRESS)
         solCube = 1;
 
-    else if (glfwGetKey(window, GLFW_KEY_O) == GLFW_PRESS)
+    else if (glfwGetKey(window, GLFW_KEY_1) == GLFW_PRESS)
         propuesta_op = 1;
 
     else if (glfwGetKey(window, GLFW_KEY_2) == GLFW_PRESS)
