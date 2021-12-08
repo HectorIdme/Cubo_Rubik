@@ -14,12 +14,12 @@ Computación Gráfica
 - Cámara Atrás (E)
 # Cubo
 Para movimiento horario (Tecla + 1)
-- Camada 1 X Antiorario (Z)
-- Camada 2 X Antiorario (X)
-- Camada 3 X Antiorario (C)
+- Camada 1 X Antihorario (Z)
+- Camada 2 X Antihorario (X)
+- Camada 3 X Antihorario (C)
 - Camada 1 Y Antihorario (V)
-- Camada 2 Y Antiorario (B)
-- Camada 3 Y Antiorario (N)
+- Camada 2 Y Antihorario (B)
+- Camada 3 Y Antihorario (N)
 
 Para movimiento antihorario (Tecla + 1)
 
