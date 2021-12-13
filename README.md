@@ -1,5 +1,5 @@
 # Cubo De Rubik
-https://youtu.be/0GPT9EE3ZNU
+
 # Autor: 
 Hector Felipe Idme Apaza  - hector.idme@ucsp.edu.pe
 # Curso:
